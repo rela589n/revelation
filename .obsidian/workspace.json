@@ -4,18 +4,252 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe18b09ce0d4861",
+        "id": "4972e2c26e70bcd3",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2857081fdaa12d",
+            "id": "191d70d6ae96bd94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "День Господній буде після скорботи.md",
+                "file": "З'явлення антихриста.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fcf2b5392474d240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Здобуття Єрусалиму.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b5411ad281c8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "З'явлення антихриста.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c864419aab7ccca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Остання війна в Ізраїлі.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54824862979de0f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Івана 5 43.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c59788a914f43b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Захарії 14 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5b43394525ffa36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проклятий хто йде війною на Ізраїль.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d25bff65bde4176d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Даниїла 7 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7132a3d1e2f54f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Антихрист дочасно переможе святих.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4a0c662bba15f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правління антихриста.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82927869e760c777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Даниїла 7 25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d5e80da5afe8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Даниїла 7 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d8eec9925bf3952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Солунян 2 9-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c3a2ebcb51e241c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "З'явлення антихриста буде супроводжуватись чудесами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f49db5942802f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Зараз в Єрусалимі немає Храму.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7435dd69a7c0091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Відбудова Храму.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b085894516dba8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ізраїль зібраний на своїй землі.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "eea3859bc843f0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "516fd6644b77d771",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Остання війна в Ізраїлі.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.8,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 15.7291666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8259808185107147,
+                  "close": false
+                }
               }
             }
           }
@@ -85,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "День Господній буде після скорботи.md",
+                "file": "Остання війна в Ізраїлі.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +336,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "День Господній буде після скорботи.md",
+                "file": "Остання війна в Ізраїлі.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "День Господній буде після скорботи.md"
+                "file": "Остання війна в Ізраїлі.md"
               }
             }
           }
@@ -146,34 +380,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab2857081fdaa12d",
+  "active": "c864419aab7ccca5",
   "lastOpenFiles": [
-    "Матвія 24 29.md",
-    "День Господній буде після скорботи.md",
-    "Матвія 24 31.md",
-    "В День Господній Анголи зберуть віруючих.md",
-    "Збір віруючих буде супроводжуватись голосним сурмовим гуком.md",
-    "Матвія 24 30.md",
-    "З'явлення Ісуса Христа.md",
-    "В День Господній буде темрява.md",
-    "Велика скорбота.md",
-    "Амоса 5 19.md",
-    "Амоса 5 20.md",
-    "Амоса 5 18.md",
-    "В День Господній на час вечора станеться світло.md",
-    "Untitled",
-    "Захарії 14 6.md",
-    "Захарії 14 7.md",
-    "На місці Храму стоїть мечеть.md",
-    "Зараз в Єрусалимі немає Храму.md",
-    "Мечеть аль-Акса.md",
-    "Антихрист засяде в Божому Храмі.md",
-    "Антихрист.md",
-    "Антихрист ще не з'явився.md",
+    "Антихрист дочасно переможе святих.md",
+    "Правління антихриста.md",
+    "Правління антихриста обмеження в часі.md",
     "З'явлення антихриста.md",
-    "День Господній ще не настав.md",
-    "Божий Храм.md",
+    "Ізраїль прийме антихриста як Месію.md",
+    "Івана 5 43.md",
+    "З'явлення Ісуса Христа.md",
+    "Здобуття Єрусалиму.md",
+    "Остання війна в Ізраїлі.md",
+    "Проклятий хто йде війною на Ізраїль.md",
+    "Захарії 14 12.md",
     "Прихід Ісуса буде після здобуття Єрусалиму.md",
-    "Здобуття Єрусалиму.md"
+    "Даниїла 7 21.md",
+    "З'явлення антихриста буде супроводжуватись чудесами.md",
+    "Прихід Ісуса буде після з'явлення антихриста.md",
+    "Антихрист ще не з'явився.md",
+    "Один час і часів і половини часу.md",
+    "Даниїла 7 25.md",
+    "Даниїла 7 13.md",
+    "2 Солунян 2 9-10.md",
+    "Має бути звільнено Храмове місце.md",
+    "На місці Храму стоїть мечеть.md",
+    "Відбудова Храму.md",
+    "Храм має бути відбудований, щоб з'явився антихрист.md",
+    "Зараз в Єрусалимі немає Храму.md",
+    "Антихрист засяде в Божому Храмі.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled"
   ]
 }
