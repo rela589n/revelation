@@ -4,231 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "4972e2c26e70bcd3",
+        "id": "eea3859bc843f0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "191d70d6ae96bd94",
+            "id": "409a734fdaa5b72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "З'явлення антихриста.md",
+                "file": "Авраам вірив що Бог може воскресити Ісака.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fcf2b5392474d240",
+            "id": "29f35fdec3bd4c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Здобуття Єрусалиму.md",
+                "file": "Померлі віруючі воскреснуть під час підхоплення Церкви.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc4bd388ab60a5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Коринтян 15 22-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30b5411ad281c8dd",
+            "id": "fd0f980035ab500a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "З'явлення антихриста.md",
+                "file": "Нове тіло буде славним.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c864419aab7ccca5",
+            "id": "510dd01c1db8754f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Остання війна в Ізраїлі.md",
+                "file": "Ісус перемінить наші тіла.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54824862979de0f5",
+            "id": "f72d31306c0939aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Івана 5 43.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c59788a914f43b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Захарії 14 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b43394525ffa36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проклятий хто йде війною на Ізраїль.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d25bff65bde4176d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Даниїла 7 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7132a3d1e2f54f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Антихрист дочасно переможе святих.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4a0c662bba15f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Правління антихриста.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82927869e760c777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Даниїла 7 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d5e80da5afe8dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Даниїла 7 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d8eec9925bf3952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Солунян 2 9-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c3a2ebcb51e241c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "З'явлення антихриста буде супроводжуватись чудесами.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f49db5942802f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зараз в Єрусалимі немає Храму.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7435dd69a7c0091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Відбудова Храму.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b085894516dba8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ізраїль зібраний на своїй землі.md",
+                "file": "Ісус перемінить наші тіла.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "eea3859bc843f0a6",
+        "id": "721acfcf76bfc7f2",
         "type": "tabs",
         "children": [
           {
-            "id": "516fd6644b77d771",
+            "id": "55cd59e021a61b1e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Остання війна в Ізраїлі.md",
+                "file": "Померлі віруючі воскреснуть під час підхоплення Церкви.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -237,17 +105,17 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -1.8,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 15.7291666666667,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8259808185107147,
+                  "scale": 0.8370718414854166,
                   "close": false
                 }
               }
@@ -319,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Остання війна в Ізраїлі.md",
+                "file": "Померлі віруючі воскреснуть під час підхоплення Церкви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Остання війна в Ізраїлі.md",
+                "file": "Померлі віруючі воскреснуть під час підхоплення Церкви.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Остання війна в Ізраїлі.md"
+                "file": "Померлі віруючі воскреснуть під час підхоплення Церкви.md"
               }
             }
           }
@@ -380,34 +248,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c864419aab7ccca5",
+  "active": "29f35fdec3bd4c06",
   "lastOpenFiles": [
-    "Антихрист дочасно переможе святих.md",
-    "Правління антихриста.md",
-    "Правління антихриста обмеження в часі.md",
-    "З'явлення антихриста.md",
-    "Ізраїль прийме антихриста як Месію.md",
-    "Івана 5 43.md",
-    "З'явлення Ісуса Христа.md",
-    "Здобуття Єрусалиму.md",
-    "Остання війна в Ізраїлі.md",
-    "Проклятий хто йде війною на Ізраїль.md",
-    "Захарії 14 12.md",
-    "Прихід Ісуса буде після здобуття Єрусалиму.md",
-    "Даниїла 7 21.md",
-    "З'явлення антихриста буде супроводжуватись чудесами.md",
-    "Прихід Ісуса буде після з'явлення антихриста.md",
-    "Антихрист ще не з'явився.md",
-    "Один час і часів і половини часу.md",
-    "Даниїла 7 25.md",
-    "Даниїла 7 13.md",
-    "2 Солунян 2 9-10.md",
-    "Має бути звільнено Храмове місце.md",
-    "На місці Храму стоїть мечеть.md",
-    "Відбудова Храму.md",
-    "Храм має бути відбудований, щоб з'явився антихрист.md",
-    "Зараз в Єрусалимі немає Храму.md",
-    "Антихрист засяде в Божому Храмі.md",
+    "Івана 11 25-26.md",
+    "Померлі віруючі воскреснуть під час підхоплення Церкви.md",
+    "Бог Отець та Ісус Христос мають силу воскресіння.md",
+    "Воскресіння померлих.md",
+    "Воскресіння на життя і воскресіння на суд.md",
+    "Авраам вірив що Бог може воскресити Ісака.md",
+    "Друге воскресіння.md",
+    "Об'явлення 20 13.md",
+    "Друга смерть.md",
+    "1 Солунян 4 17.md",
+    "1 Коринтян 15 22-23.md",
+    "Віруючі переміняться.md",
+    "Нове тіло буде славним.md",
+    "Ісус перемінить наші тіла.md",
+    "Филип'ян 3 20-21.md",
+    "1 Коринтян 15 51.md",
+    "1 Коринтян 15 50.md",
+    "Воскресіння Ісуса Христа.md",
+    "Бог може воскресити із попелу.md",
+    "Авраам приніс в цілопалення  Ісака.md",
+    "Дії 2 32.md",
+    "Анголи зберуть віруючих.md",
+    "Євреїв 11 19.md",
+    "Буття 22 9-10.md",
+    "Євреїв 11 17-18.md",
+    "Івана 5 28-29.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled"
