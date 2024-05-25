@@ -13,31 +13,139 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Авраам вірив що Бог може воскресити Ісака.md",
+                "file": "Правління антихриста обмеження в часі.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "29f35fdec3bd4c06",
+            "id": "8afb68b3ce70b4db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Притча про раба, поставленого для давання їжі іншим слугам.md",
-                "mode": "preview",
+                "file": "Об'явлення 13 5.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "baea802bbb6c1595",
+            "id": "cc100620e442b7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Будуть ті, хто даватимуть віруючим їжу.md",
+                "file": "Правління антихриста.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1abf3e2e1eda3908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Свічник - Церква.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04b0b097e8afacd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Свічник - Церква.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7efa7024f64c1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Свічник - Церква.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d923cd36fd11b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Захарії 4 2-3, 12-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe2e6ba05797e527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Захарії 4 12-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bff35821783923b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Захарії 4 2-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d065add0ca112ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Об'явлення 11 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0cd3000eefaba36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Об'явлення 1 12-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9340948a978b0dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Об'явлення 13 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,48 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "721acfcf76bfc7f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55cd59e021a61b1e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Будуть ті, хто даватимуть віруючим їжу.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8370718414854166,
-                  "close": false
-                }
-              }
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Будуть ті, хто даватимуть віруючим їжу.md",
+                "file": "Свічник - Церква.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Будуть ті, хто даватимуть віруючим їжу.md",
+                "file": "Свічник - Церква.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Будуть ті, хто даватимуть віруючим їжу.md"
+                "file": "Свічник - Церква.md"
               }
             }
           }
@@ -260,34 +327,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baea802bbb6c1595",
+  "active": "e7efa7024f64c1df",
   "lastOpenFiles": [
-    "Місця писання про З'явлення Ісуса Христа.md",
-    "Будуть ті, хто даватимуть віруючим їжу.md",
-    "Віруючі не зможуть ані купити ані продати.md",
-    "Віруючі не приймуть \"знак\".md",
-    "Притча про раба, поставленого для давання їжі іншим слугам.md",
-    "Померлі віруючі воскреснуть під час підхоплення Церкви.md",
+    "Об'явлення 1 20.md",
+    "Оливне дерево - Пророк.md",
+    "Два пророка.md",
+    "Захарії 4 2-3.md",
+    "Захарії 4 2-3, 12-14.md",
+    "Захарії 4 12-14.md",
+    "Якщо в Церкві не буде пророків, то в Церкві не буде й сили.md",
+    "Свічник - Церква.md",
+    "Об'явлення 11 10.md",
+    "Об'явлення 1 12-13.md",
+    "Олива - Дух Божий.md",
+    "Влада антихриста - по всій землі.md",
     "Об'явлення 13 16-17.md",
-    "Матвія 24 45-51.md",
-    "Івана 11 25-26.md",
-    "Бог Отець та Ісус Христос мають силу воскресіння.md",
-    "Воскресіння померлих.md",
-    "Воскресіння на життя і воскресіння на суд.md",
+    "Правління антихриста.md",
+    "Правління антихриста обмеження в часі.md",
+    "Антихрист дочасно переможе святих.md",
+    "Об'явлення 13 7.md",
+    "Притча про раба, поставленого для давання їжі іншим слугам.md",
+    "Об'явлення 13 5.md",
+    "Антихрист видаватиме себе за Бога.md",
+    "З'явлення антихриста.md",
     "Авраам вірив що Бог може воскресити Ісака.md",
-    "Друге воскресіння.md",
-    "Об'явлення 20 13.md",
-    "Друга смерть.md",
-    "1 Солунян 4 17.md",
-    "1 Коринтян 15 22-23.md",
-    "Віруючі переміняться.md",
-    "Нове тіло буде славним.md",
-    "Ісус перемінить наші тіла.md",
-    "Филип'ян 3 20-21.md",
-    "1 Коринтян 15 51.md",
-    "1 Коринтян 15 50.md",
-    "Воскресіння Ісуса Христа.md",
-    "Бог може воскресити із попелу.md",
+    "Об'явлення 13 11.md",
+    "З'явлення антихриста буде супроводжуватись чудесами.md",
+    "Будуть ті, хто даватимуть віруючим їжу.md",
+    "Місця писання про З'явлення Ісуса Христа.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled"
