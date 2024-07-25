@@ -4,203 +4,226 @@
     "type": "split",
     "children": [
       {
-        "id": "eea3859bc843f0a6",
+        "id": "fca479d5d440ffb0",
         "type": "tabs",
         "children": [
           {
-            "id": "409a734fdaa5b72d",
+            "id": "f1c00857b3a56107",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "scriptures/Матвія 24 29.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "8336539898255462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Правління антихриста обмеження в часі.md",
+                "file": "Божий Храм.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8afb68b3ce70b4db",
+            "id": "68287d5e3b4c2c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Об'явлення 13 5.md",
+                "file": "scriptures/Івана 11 26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc100620e442b7c8",
+            "id": "273883d8ce48be93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Правління антихриста.md",
+                "file": "scriptures/Івана 11 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1abf3e2e1eda3908",
+            "id": "7e1036a423ce1f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Свічник - Церква.md",
+                "file": "scriptures/Івана 11 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04b0b097e8afacd1",
+            "id": "3e88e136f8eb6e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Свічник - Церква.md",
+                "file": "scriptures/Івана 11 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7efa7024f64c1df",
+            "id": "cff6876533dbaa4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Свічник - Церква.md",
+                "file": "scriptures/Івана 11 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d923cd36fd11b80",
+            "id": "3c7412d510744458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Захарії 4 2-3, 12-14.md",
+                "file": "scriptures/Івана 11 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe2e6ba05797e527",
+            "id": "335c7703b6ba881c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Захарії 4 12-14.md",
+                "file": "scriptures/Івана 11 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bff35821783923b7",
+            "id": "380d111c37613ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Захарії 4 2-3.md",
+                "file": "scriptures/Івана 11 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d065add0ca112ede",
+            "id": "75371b2e683deb62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Об'явлення 11 10.md",
+                "file": "scriptures/Івана 11 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0cd3000eefaba36",
+            "id": "61bc9d692cb782d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Об'явлення 1 12-13.md",
+                "file": "scriptures/Івана 11 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9340948a978b0dff",
+            "id": "936301eb098e56b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Об'явлення 13 11.md",
+                "file": "scriptures/Івана 11 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc4bd388ab60a5bc",
+            "id": "7fa8c9b2227952e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Коринтян 15 22-23.md",
+                "file": "scriptures/Євреїв 11 19.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd0f980035ab500a",
+            "id": "84136909673fbe8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Нове тіло буде славним.md",
+                "file": "scriptures/Матвія 24 29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "510dd01c1db8754f",
+            "id": "532053a949635031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ісус перемінить наші тіла.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f72d31306c0939aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ісус перемінить наші тіла.md",
+                "file": "scriptures/Івана 11 26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -266,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Свічник - Церква.md",
+                "file": "scriptures/Матвія 24 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Свічник - Церква.md",
+                "file": "scriptures/Матвія 24 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Свічник - Церква.md"
+                "file": "scriptures/Матвія 24 29.md"
               }
             }
           }
@@ -327,36 +350,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7efa7024f64c1df",
+  "active": "84136909673fbe8e",
   "lastOpenFiles": [
-    "Об'явлення 1 20.md",
-    "Оливне дерево - Пророк.md",
-    "Два пророка.md",
-    "Захарії 4 2-3.md",
-    "Захарії 4 2-3, 12-14.md",
-    "Захарії 4 12-14.md",
-    "Якщо в Церкві не буде пророків, то в Церкві не буде й сили.md",
-    "Свічник - Церква.md",
-    "Об'явлення 11 10.md",
-    "Об'явлення 1 12-13.md",
-    "Олива - Дух Божий.md",
-    "Влада антихриста - по всій землі.md",
-    "Об'явлення 13 16-17.md",
-    "Правління антихриста.md",
-    "Правління антихриста обмеження в часі.md",
-    "Антихрист дочасно переможе святих.md",
-    "Об'явлення 13 7.md",
-    "Притча про раба, поставленого для давання їжі іншим слугам.md",
-    "Об'явлення 13 5.md",
-    "Антихрист видаватиме себе за Бога.md",
-    "З'явлення антихриста.md",
+    "scriptures/Амоса 5 18.md",
+    "scriptures/Амоса 5 19.md",
+    "scriptures/Івана 11 32.md",
+    "scriptures/Івана 11 29.md",
+    "scriptures/Івана 11 28.md",
+    "scriptures/Івана 11 27.md",
+    "scriptures/Івана 11 26.md",
+    "scriptures/Івана 11 25-26.md",
+    "scriptures/Івана 11 3.md",
+    "scriptures/Івана 11 2.md",
+    "scriptures/Івана 11 1.md",
+    "scriptures/1 Солунян 4 16.md",
+    "scriptures/1 Солунян 4 15.md",
+    "scriptures/1 Коринтян 15 52.md",
+    "scriptures/1 Коринтян 15 51.md",
+    "scriptures/1 Коринтян 15 50.md",
+    "scriptures/1 Коринтян 15 22-23.md",
+    "Авраам приніс в цілопалення  Ісака.md",
     "Авраам вірив що Бог може воскресити Ісака.md",
-    "Об'явлення 13 11.md",
-    "З'явлення антихриста буде супроводжуватись чудесами.md",
-    "Будуть ті, хто даватимуть віруючим їжу.md",
-    "Місця писання про З'явлення Ісуса Христа.md",
+    "scriptures/Євреїв 11 17-18.md",
+    "scriptures/Євреїв 11 19.md",
+    "scriptures/Дії 2 32.md",
+    "scriptures/Ісаї 61 1.md",
+    "scriptures/Матвія 24 29.md",
+    "scriptures/Филип'ян 3 20-21.md",
+    "scriptures/Об'явлення 1 12-13.md",
+    "scriptures",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled"
+    "Untitled.canvas"
   ]
 }
