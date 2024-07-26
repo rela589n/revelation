@@ -4,226 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fca479d5d440ffb0",
+        "id": "ec36e23e94d6f22a",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c00857b3a56107",
+            "id": "dc64dabbf9334eab",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "scriptures/Матвія 24 29.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "8336539898255462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Божий Храм.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68287d5e3b4c2c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "273883d8ce48be93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e1036a423ce1f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e88e136f8eb6e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cff6876533dbaa4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c7412d510744458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "335c7703b6ba881c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "380d111c37613ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75371b2e683deb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61bc9d692cb782d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "936301eb098e56b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fa8c9b2227952e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Євреїв 11 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84136909673fbe8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Матвія 24 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "532053a949635031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptures/Івана 11 26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scriptures/Матвія 24 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scriptures/Матвія 24 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "scriptures/Матвія 24 29.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -350,34 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84136909673fbe8e",
+  "active": "dc64dabbf9334eab",
   "lastOpenFiles": [
+    "Воскресіння Лазаря.md",
+    "Воскресіння померлих.md",
+    "Воскресіння Ісуса Христа.md",
+    "Воскресіння.md",
+    "scriptures/john/Івана 11 1-45.md",
+    "scriptures/john/Івана 5 28-29.md",
+    "scriptures/john/Івана 11 25-26.md",
+    "scriptures/john/Івана 5 43.md",
+    "scriptures/john/Івана 5 21.md",
+    "scriptures/john/Івана 11 1.md",
+    "scriptures/john/Івана 11 10.md",
+    "scriptures/1 Коринтян 15 22-23.md",
+    "scriptures/john",
+    "scriptures/Об'явлення 11 10.md",
+    "scriptures/Матвія 24 29.md",
     "scriptures/Амоса 5 18.md",
     "scriptures/Амоса 5 19.md",
-    "scriptures/Івана 11 32.md",
-    "scriptures/Івана 11 29.md",
-    "scriptures/Івана 11 28.md",
-    "scriptures/Івана 11 27.md",
-    "scriptures/Івана 11 26.md",
-    "scriptures/Івана 11 25-26.md",
-    "scriptures/Івана 11 3.md",
-    "scriptures/Івана 11 2.md",
-    "scriptures/Івана 11 1.md",
+    "scriptures/john/Івана 11 32.md",
+    "scriptures/john/Івана 11 29.md",
+    "scriptures/john/Івана 11 28.md",
+    "scriptures/john/Івана 11 27.md",
+    "scriptures/john/Івана 11 26.md",
+    "scriptures/john/Івана 11 3.md",
+    "scriptures/john/Івана 11 2.md",
     "scriptures/1 Солунян 4 16.md",
     "scriptures/1 Солунян 4 15.md",
     "scriptures/1 Коринтян 15 52.md",
-    "scriptures/1 Коринтян 15 51.md",
-    "scriptures/1 Коринтян 15 50.md",
-    "scriptures/1 Коринтян 15 22-23.md",
-    "Авраам приніс в цілопалення  Ісака.md",
-    "Авраам вірив що Бог може воскресити Ісака.md",
-    "scriptures/Євреїв 11 17-18.md",
-    "scriptures/Євреїв 11 19.md",
-    "scriptures/Дії 2 32.md",
-    "scriptures/Ісаї 61 1.md",
-    "scriptures/Матвія 24 29.md",
-    "scriptures/Филип'ян 3 20-21.md",
-    "scriptures/Об'явлення 1 12-13.md",
     "scriptures",
     "Untitled 1.canvas",
     "Untitled.canvas"
