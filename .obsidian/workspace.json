@@ -4,62 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e64210ea88077368",
+        "id": "541a3d9992b3f6f7",
         "type": "tabs",
-        "dimension": 44.18789808917197,
         "children": [
           {
-            "id": "ba7dd59a3982b145",
+            "id": "7dde6f01fba8092b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statements/Вигнання демонів.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2adadebdd30801ff",
-        "type": "tabs",
-        "dimension": 55.81210191082803,
-        "children": [
-          {
-            "id": "999386b69e930587",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "statements/Вигнання демонів.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "-tag:#scriptures",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.36740219304183,
-                  "repelStrength": 14.5390550967917,
-                  "linkStrength": 0,
-                  "linkDistance": 213,
-                  "scale": 0.5390145410363891,
-                  "close": true
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "9e44a0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statements/Вигнання демонів.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "statements/Вигнання демонів.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "statements/Вигнання демонів.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,34 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba7dd59a3982b145",
+  "active": "7dde6f01fba8092b",
   "lastOpenFiles": [
-    "statements/Історії вигнаня демонів.md",
-    "stories/Вздоровлення недужих та вигнання демонів біля дому Симона.md",
-    "stories/Вигнання демона в синагозі в Капернаумі.md",
-    "statements/Вигнання демонів.md",
-    "statements/Вигнання демонів не зустрічається в старому заповіті.md",
-    "statements/Ліки від демонів - вигнання.md",
-    "statements/Демони визнають владу Ісуса.md",
-    "statements/Демони - це істоти, відділені від тіла.md",
-    "statements/Демони хочуть мати тіло.md",
-    "statements/Без тіла демони страждають.md",
-    "scriptures/matthew/8/Матвія 8 29.md",
-    "statements/Не можна розп'ясти демона, і не можна вигнати плоть.md",
-    "statements/Ліки від плоті - розп'яття.md",
-    "statements/Характерні дії демонів.md",
-    "statements/Демони одразу визнають Ісуса.md",
-    "statements/Задачі демонів.md",
-    "statements/Учні Ісуса не посилались на проповідь без надзвичайної влади.md",
-    "scriptures/luke/13/Луки 13 10-17.md",
-    "statements/Пилип робив багато чудес.md",
-    "statements/В Біблії євангелистом названий лише Пилип.md",
-    "scriptures/mark/5/Марка 5 11.md",
-    "scriptures/luke/10/Луки 10 42.md",
-    "scriptures/luke/10/Луки 10 41.md",
-    "scriptures/luke/10/Луки 10 40.md",
-    "scriptures/luke/10/Луки 10 39.md",
-    "scriptures/luke/10/Луки 10 38.md",
+    "scriptures/matthew/9/Матвія 9 38.md",
+    "scriptures/matthew/10/Матвія 10 1.md",
+    "scriptures/matthew/8/Матвія 8 34.md",
+    "scriptures/matthew/9/Матвія 9 1.md",
+    "scriptures/luke/4/Луки 4 1.md",
+    "scriptures/luke/4/Луки 4 44.md",
+    "scriptures/luke/5/Луки 5 1.md",
+    "scriptures/luke/5/Луки 5 39.md",
+    "scriptures/luke/6/Луки 6 1.md",
+    "scriptures/luke/6/Луки 6 49.md",
+    "scriptures/luke/7/Луки 7 1.md",
+    "scriptures/luke/7/Луки 7 50.md",
+    "scriptures/luke/6/Луки 6 48.md",
+    "scriptures/luke/6/Луки 6 47.md",
+    "scriptures/luke/6/Луки 6 46.md",
+    "scriptures/luke/6/Луки 6 45.md",
+    "scriptures/luke/6/Луки 6 44.md",
+    "scriptures/luke/6/Луки 6 43.md",
+    "scriptures/luke/6/Луки 6 42.md",
+    "scriptures/luke/6/Луки 6 41.md",
+    "scriptures/luke/6/Луки 6 40.md",
+    "scriptures/luke/6/Луки 6 39.md",
+    "scriptures/luke/6/Луки 6 38.md",
+    "scriptures/luke/6/Луки 6 37.md",
+    "scriptures/luke/6/Луки 6 36.md",
+    "scriptures/luke/6/Луки 6 35.md",
+    "scriptures/luke/6",
+    "scriptures/luke/9",
+    "scriptures/matthew/10",
     "scriptures/luke/10",
     "scriptures/luke/13",
     "scriptures/matthew/9",
@@ -233,9 +185,6 @@
     "scriptures/john/11",
     "scriptures/luke/8",
     "scriptures/luke/7",
-    "scriptures/luke/5",
-    "scriptures/luke/4",
-    "scriptures/mark/3",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
