@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "541a3d9992b3f6f7",
+        "id": "7a62f13a293757e8",
         "type": "tabs",
         "children": [
           {
-            "id": "7dde6f01fba8092b",
+            "id": "e64423451bceb26c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Чому я так впевнений, що Бог все створив?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thoughts/Чому я так впевнений, що Бог все створив?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "thoughts/Чому я так впевнений, що Бог все створив?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "thoughts/Чому я так впевнений, що Бог все створив?.md"
+              }
             }
           },
           {
@@ -147,34 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dde6f01fba8092b",
+  "active": "e64423451bceb26c",
   "lastOpenFiles": [
-    "scriptures/matthew/9/Матвія 9 38.md",
-    "scriptures/matthew/10/Матвія 10 1.md",
-    "scriptures/matthew/8/Матвія 8 34.md",
-    "scriptures/matthew/9/Матвія 9 1.md",
-    "scriptures/luke/4/Луки 4 1.md",
-    "scriptures/luke/4/Луки 4 44.md",
-    "scriptures/luke/5/Луки 5 1.md",
-    "scriptures/luke/5/Луки 5 39.md",
-    "scriptures/luke/6/Луки 6 1.md",
-    "scriptures/luke/6/Луки 6 49.md",
-    "scriptures/luke/7/Луки 7 1.md",
-    "scriptures/luke/7/Луки 7 50.md",
-    "scriptures/luke/6/Луки 6 48.md",
-    "scriptures/luke/6/Луки 6 47.md",
-    "scriptures/luke/6/Луки 6 46.md",
-    "scriptures/luke/6/Луки 6 45.md",
-    "scriptures/luke/6/Луки 6 44.md",
-    "scriptures/luke/6/Луки 6 43.md",
-    "scriptures/luke/6/Луки 6 42.md",
-    "scriptures/luke/6/Луки 6 41.md",
-    "scriptures/luke/6/Луки 6 40.md",
-    "scriptures/luke/6/Луки 6 39.md",
-    "scriptures/luke/6/Луки 6 38.md",
-    "scriptures/luke/6/Луки 6 37.md",
-    "scriptures/luke/6/Луки 6 36.md",
-    "scriptures/luke/6/Луки 6 35.md",
+    "thoughts/Чому я так впевнений, що Бог все створив?.md",
+    "thoughts",
+    "stories/Ісус виправдовує учнів, які рвали колосся в суботу.md",
+    "scriptures/mark/3/Марка 3.md",
+    "scriptures/mark/3/Марка 3 1-6.md",
+    "scriptures/mark/2/Марка 2.md",
+    "scriptures/mark/2/Марка 2 23-28.md",
+    "stories/Ісус вздоровляє сухорукого в суботу.md",
+    "scriptures/mark/2/Марка 2 28.md",
+    "scriptures/mark/3/Марка 3 1.md",
+    "stories/Звільнення гадаринського одержимого.md",
+    "scriptures/mark/3/Марка 3 35.md",
+    "scriptures/mark/3/Марка 3 34.md",
+    "scriptures/mark/3/Марка 3 33.md",
+    "scriptures/mark/3/Марка 3 32.md",
+    "scriptures/mark/3/Марка 3 31.md",
+    "scriptures/mark/3/Марка 3 30.md",
+    "scriptures/mark/3/Марка 3 29.md",
+    "scriptures/mark/3/Марка 3 28.md",
+    "scriptures/mark/3/Марка 3 27.md",
+    "scriptures/mark/3/Марка 3 26.md",
+    "scriptures/mark/3/Марка 3 25.md",
+    "scriptures/mark/3/Марка 3 24.md",
+    "scriptures/mark/3/Марка 3 23.md",
+    "scriptures/mark/3/Марка 3 22.md",
+    "scriptures/mark/3/Марка 3 21.md",
+    "scriptures/mark/3/Марка 3 20.md",
     "scriptures/luke/6",
     "scriptures/luke/9",
     "scriptures/matthew/10",
@@ -184,7 +193,6 @@
     "scriptures/matthew/8",
     "scriptures/john/11",
     "scriptures/luke/8",
-    "scriptures/luke/7",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
